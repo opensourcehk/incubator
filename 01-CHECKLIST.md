@@ -12,8 +12,11 @@ Check list on the first meeting
    1. a Person, a Team or a Organisation
    1. a Mentee/Coachee/Incubatee.
    1. Full control over the project/community development
+   1. Keep in touch with Mentor/Coach in next 12 month (Quarterly?)
 1. Mentor/Coach
    1. Assign by OSHK EXCO.
+   1. Keep in touch with Mentee/Coachee in next 12 month (Quarterly?)
+   1. Summary Report to OSHK EXCO after each meetings.
 
 ## Aims
 
@@ -31,3 +34,4 @@ Check list on the first meeting
 - [ ] Anything expect from the OSHK and Incubation Program ? and list out.
 - [ ] Leadership and Governance
 - [ ] Code of Conduct
+- [ ] Approx. Date of next meeting ?
