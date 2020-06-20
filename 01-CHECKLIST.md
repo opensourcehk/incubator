@@ -31,7 +31,7 @@ Check list on the first meeting
 - [ ] Simple planning to achieve the annual target. What will the project team contribute to the project ?
 - [ ] Finance: how to cover the expense cost of the project ?
 - [ ] Leadership and Governance
-- [ ] Code of Conduct
+- [ ] Code of Conduct (Example: [GNOME CoC](https://wiki.gnome.org/Foundation/CodeOfConduct))
 - [ ] Quick go through the [Open Source Guides](https://opensource.guide/)
 - [ ] any Suggestions and Comments from Mentor/Coach ?
 - [ ] Anything expect from the OSHK and Incubation Program ? and list out.
