@@ -23,10 +23,14 @@ Check list on the first meeting
 - [ ] Project owner should understand that the program itself is focus on support, not focus on nor provide funding.
 - [ ] Project owner should understand that OSHK can provide basic event and marketing support.
 - [ ] Build up the partnership between the OSHK and the incubatee, suggests quarterly short meeting between the OSHK and incubatee.
+- [ ] Project owner should understand the relationship of menter&mentee are peer to peer, a partnership.
+- [ ] Project owner should understand the importance of Code of Conduct for the positive and inclusive community.
+- [ ] Mentor/Coach should confirm the existance of open source code and the license is OSI/FSF-approved.
+- [ ] Mentor/Coach should understand the basic goal / annual target of the project.
 
 ## Check list
 - [ ] [Open Source License](https://choosealicense.com/): which license did the project owner choose ?
-- [ ] Source Code: where is the source code repos ?
+- [ ] Source Code: where is the source code repos ? GitHub ?
 - [ ] Project owner tells the annual target / the goal of their project. Any metrics to measure the success ?
 - [ ] Simple planning to achieve the annual target. What will the project team contribute to the project ?
 - [ ] Finance: how to cover the expense cost of the project ?
